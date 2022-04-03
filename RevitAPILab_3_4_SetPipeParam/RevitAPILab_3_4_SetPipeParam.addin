@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Program Files\RevitAPITraining\RevitAPILab_3_4_SetPipeParam.dll"</Assembly>
+		<AddInId>66627180-0240-4EBB-8CE4-532456D75897</AddInId>
+		<FullClassName>RevitAPILab_3_4_SetPipeParam.Main</FullClassName>
+		<VendorId>ADSK</VendorId>
+		<Text>Диаметры труб</Text>
+	</AddIn>
+</RevitAddIns>
+
